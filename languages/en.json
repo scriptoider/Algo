@@ -1,0 +1,26 @@
+{
+    "algorithms": { 
+        "1": "number system",
+        "2": "GCD",
+        "3": "LCM",
+        "4": "dividers",
+        "5": "bubble",
+        "6": "insert",
+        "7": "select",
+        "8": "quick",
+        "9": "Fibonacci",
+        "10": "password generator",
+        "11": "password checker"
+    },
+    "and": "and",
+    "chooseAlgo": "Choose algorithm (1-{})",
+    "inputNumber": "Input number or 'x' to quit\n",
+    "input2Numbers": "Input 2 numbers or 'x' to quit\n",
+    "inputNumberAndItsBaseOfANumberSystemAndAnotherBaseOfANumberSystem": "Input number, its base of a number system and another base of a number system or 'x' to quit\n",
+    "inputArrayLengthOrNumberSequence": "Input array length or number sequence or 'x' to quit\n",
+    "inputNthNumberOfFibonacci": "Input nth number of Fibonacci or 'x' to quit\n",
+    "inputLengthOfPassword": "Input length of password or 'x' to quit\n",
+    "inputPassword": "Input password or 'x' to quit\n",
+    "passwordMustContain": "Password must have atleast 8 characters",
+    "passwordMustNotContain": "Password must not contain spaces"
+}

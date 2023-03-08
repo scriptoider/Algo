@@ -1,0 +1,3 @@
+language = 'en' # languages: 'en' (english), 'ru' ('russian')
+quitKeys = ['q', 'x', 'quit', 'exit', 'х', 'выйти'] # keys to quit the program
+wait = 2 # number of seconds to pass after an iteration is over
